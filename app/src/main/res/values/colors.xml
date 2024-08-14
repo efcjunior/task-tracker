@@ -1,0 +1,12 @@
+<resources>
+    <color name="custom_primary_color">#BB86FC</color>
+    <color name="custom_accent_color">#03DAC6</color>
+    <color name="custom_background_color">#121212</color>
+    <color name="custom_surface_color">#1F1F1F</color>
+    <color name="custom_on_primary_color">#000000</color>
+    <color name="custom_on_secondary_color">#000000</color>
+    <color name="custom_on_background_color">#FFFFFF</color>
+    <color name="custom_on_surface_color">#FFFFFF</color>
+    <color name="custom_primary_text_color">#FFFFFF</color>
+    <color name="custom_secondary_text_color">#03DAC6</color>
+</resources>

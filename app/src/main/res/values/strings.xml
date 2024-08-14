@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Task Tracker</string>
+    <string name="add_task">Adicionar Tarefa</string>
+    <string name="select_date">Selecionar Data</string>
+    <string name="select_time">Selecionar Hora</string>
+    <string name="task_description">Descrição da tarefa</string>
+    <string name="completed_tasks">Tarefas Concluídas</string>
+    <string name="pending">Pendente</string>
+    <string name="completed">Concluída</string>
+    <string name="in_progress_task">Em Progresso</string>
+    <string name="add">Adicionar</string>
+    <string name="update">Atualizar</string>
+    <string name="delete">Excluir</string>
+    <string name="expand_collapse_completed_tasks">Expandir/Recolher Tarefas Concluídas</string>
+    <string name="select_time_button">Hora</string>
+    <string name="select_date_button">Data</string>
+    <string name="task_card_delete">Excluir</string>
+    <string name="task_card_time_format">HH:mm</string>
+    <string name="completed_tasks_section">Tarefas Concluídas</string>
+    <string name="update_task_button">Atualizar</string>
+    <string name="add_task_button">Adicionar</string>
+    <string name="task_description_label">Descrição da tarefa</string>
+    <string name="add_task_fab">Adicionar Tarefa</string>
+    <string name="task_without_date">Sem Data</string>
+    <string name="task_status_pending">Pendente</string>
+    <string name="task_status_completed">Concluída</string>
+    <string name="task_status_in_progress">Em Progresso</string>
+    <string name="cancel_task_fab">Cancelar</string>
+
+
+</resources>

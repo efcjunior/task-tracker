@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Task Tracker</string>
+    <string name="add_task">Add Task</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_time">Select Time</string>
+    <string name="task_description">Task Description</string>
+    <string name="completed_tasks">Completed Tasks</string>
+    <string name="pending">Pending</string>
+    <string name="completed">Completed</string>
+    <string name="in_progress_task">In Progress</string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="expand_collapse_completed_tasks">Expand/Collapse Completed Tasks</string>
+    <string name="select_time_button">Time</string>
+    <string name="select_date_button">Date</string>
+    <string name="task_card_delete">Delete</string>
+    <string name="task_card_time_format">HH:mm a</string>
+    <string name="completed_tasks_section">Completed Tasks</string>
+    <string name="update_task_button">Update</string>
+    <string name="add_task_button">Add</string>
+    <string name="task_description_label">Task Description</string>
+    <string name="add_task_fab">Add Task</string>
+    <string name="task_without_date">Undated</string>
+    <string name="task_status_pending">Pending</string>
+    <string name="task_status_completed">Completed</string>
+    <string name="task_status_in_progress">In Progress</string>
+    <string name="cancel_task_fab">Cancelar</string>
+</resources>
